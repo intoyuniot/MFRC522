@@ -1,0 +1,16 @@
+{
+    "name": "MFRC522",
+    "version": "1.0.0",
+    "keywords": "MFRC522",
+    "description": "NXP MFRC522(RFID 13.56MHz非接触式读写芯片)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MFRC522.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
